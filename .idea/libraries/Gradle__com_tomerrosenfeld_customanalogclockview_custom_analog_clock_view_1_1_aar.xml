@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomerrosenfeld.customanalogclockview:custom-analog-clock-view:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/35ca5d01c64d86b50a509398884d4d6a/transformed/jetified-custom-analog-clock-view-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/35ca5d01c64d86b50a509398884d4d6a/transformed/jetified-custom-analog-clock-view-1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/35ca5d01c64d86b50a509398884d4d6a/transformed/jetified-custom-analog-clock-view-1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tomerrosenfeld.customanalogclockview/custom-analog-clock-view/1.1/76f62b466ae8ade4b5d9d398c33bdaa3451e148a/custom-analog-clock-view-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tomerrosenfeld.customanalogclockview/custom-analog-clock-view/1.1/e618080370af66eb119d080c8fc0ecdfdff8f326/custom-analog-clock-view-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

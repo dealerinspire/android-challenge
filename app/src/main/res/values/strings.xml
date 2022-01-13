@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DealerInspireInterview</string>
+
+    <string name="hours">Hours: %d</string>
+    <string name="minutes">Minutes: %d</string>
+    <string name="angle">Angle between hands: %d degrees</string>
+</resources>
